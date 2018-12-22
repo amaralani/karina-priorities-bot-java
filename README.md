@@ -1,2 +1,2 @@
 # Karina Priority Bot (Java)
-Same as  karina-priority-bot, but in Java.
+Same as  karina-priorities-bot, but in Java.
